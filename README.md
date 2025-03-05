@@ -3,7 +3,7 @@ Single line patrol
 
 open camera and pub img
 ```bash
-$ ros2 run lane_detection camera
+ros2 run lane_detection camera
 ```
 
 hsv right and pub error
